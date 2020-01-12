@@ -15,7 +15,7 @@ if(employee!=null)
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>SAIBALAJI HOSPITAL Hospital Management System</title>
+        <title>ANAND HOSPITAL Hospital Management System</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="assets/css/bootstrap.min.css" rel="stylesheet">
         <link href="assets/css/scrolling-nav.css" rel="stylesheet" />
@@ -131,7 +131,7 @@ function errorPassword() {
 	                    <div class="col-md-12">
 	                        <div class="card">
 	                            <div class="card-header" data-background-color="purple">
-	                                <h4 class="title">Anand Babu Here</h4>
+	                                <h4 class="title">Doctor Anand Babu Here</h4>
 	                                <p class="category">Created using Roboto Font Family</p>
 	                            </div>
 	                            <div class="card-content">
