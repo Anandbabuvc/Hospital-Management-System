@@ -131,7 +131,7 @@ function errorPassword() {
 	                    <div class="col-md-12">
 	                        <div class="card">
 	                            <div class="card-header" data-background-color="purple">
-	                                <h4 class="title">Doctor Mr. super Star Anand Babu Here</h4>
+	                                <h4 class="title">Doctor Mr. super Star stephen Here</h4>
 	                                <p class="category">Created using Roboto Font Family</p>
 	                            </div>
 	                            <div class="card-content">
